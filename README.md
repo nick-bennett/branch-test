@@ -1,1 +1,1 @@
-# Editing heading in remote repo
+# Editing heading locally & remotely (merged)
